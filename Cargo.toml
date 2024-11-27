@@ -2,5 +2,14 @@
 name = "leroi"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alfatm <dreo@volka.com>"]
+categories = ["config"]
+keywords = ["error", "error-handling"]
+license = "MPL-2.0"
+readme = "README.md"
+repository = "https://github.com/volkagames/leroi.git"
+description = "Library to make errors inspectable"
+documentation = "https://docs.rs/leroi"
+
 
 [dependencies]
